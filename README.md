@@ -10,4 +10,4 @@ More info about Natural Language processing(NLP): Text Segmentation Using Dictio
 
 
 ### Result:
-![My Image](result.jpg)
+
