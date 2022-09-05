@@ -1,4 +1,4 @@
-# Segmentation or Tokenization
+# Lao word segmentation 
 ## This is an approch to segment unsegmented languages like Laos, Chinese, Thai
 * In this program I have used maximal matching method(longest matching algorithm) to segment Lao words
 
