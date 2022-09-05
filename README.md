@@ -1,5 +1,5 @@
 # Segmentation or Tokenization
-# This is an approch for using in segmenting unsegmented languages like Laos, Chinese, Thai
+## This is an approch for using in segmenting unsegmented languages like Laos, Chinese, Thai
 ## In this program I have used maximal matching method(longest matching algorithm) to segment Lao words
 Modified code from: [reference](https://medium.com/@anshul16/maximum-matching-word-segmentation-algorithm-python-code-3444fe4bd6f9
 )
