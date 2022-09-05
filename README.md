@@ -10,4 +10,6 @@ More info about Natural Language processing(NLP): Text Segmentation Using Dictio
 
 
 ### Result:
+![result](https://user-images.githubusercontent.com/112546473/188489404-450d0105-2107-43db-9bf2-0f244603e877.png)
+
 
