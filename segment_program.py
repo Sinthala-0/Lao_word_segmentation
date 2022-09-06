@@ -30,10 +30,13 @@ def parser(text):
             temp_word = text[boundary:j+1]
             if temp_word in words_list and len(temp_word) > len(max_word):
                 max_word = temp_word
-            if temp_word in string.digits:
+            # Numbers:
+            elif str(temp_word).isdigit():
                 max_word = temp_word
+            # Signs:
             if temp_word in string.punctuation or temp_word == " ":
                 max_word = temp_word
+            # English letters
             if temp_word in string.ascii_letters:
                 max_word = temp_word
             
